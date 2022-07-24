@@ -1,0 +1,10 @@
+# Enviroments and files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak
+venv.bakadd*
+data/
+*.csv
