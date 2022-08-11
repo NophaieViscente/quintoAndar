@@ -3,10 +3,6 @@
 ## Objective of this project : 
 **Given an input, the algorithm provides the apartments/houses that best match the customer's choice.**
 
-## Flowchart
-![FlowChart](docs/Flowchart.png)
-<br/><br/>
-
 ## How was it built?
 * The first step was data collection;<br/> 
 (Property data were collected through a crawler from the www.quintoandar.com.br)<br/> 
@@ -23,6 +19,9 @@ The process data code is in this notebook : <br/>
 The data analysis code is in this notebook: <br/>
 [Data analysis from quintoandar.com.br](code/analyzing_data.ipynb)<br/><br/>
 
+## Flowchart
+![FlowChart](docs/Flowchart.png)
+<br/><br/>
 
 ## How to use this project ?
 * To use the codes in this project, you need a python venv.<br/> 
