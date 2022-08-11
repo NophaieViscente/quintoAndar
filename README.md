@@ -24,3 +24,7 @@ The data analysis code is in this notebook: <br/>
 * To use the codes in this project, you need a python venv.<br/> 
 The repository can be cloned using **git clone https://github.com/NophaieViscente/quintoAndar**, done that the necessary libraries can be installed using the command:<br/><br/>
 **pip install -r requirements.txt**
+
+
+## To use with conda, use this command
+**conda create --name <your_env_name> --file requirements.txt**
