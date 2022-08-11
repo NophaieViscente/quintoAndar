@@ -1,11 +1,11 @@
 <h1 align="center"> Realtor </h1>
 
-### Objective of this project : 
-<b> Given an input, the algorithm provides the apartments/houses that best match the customer's choice. </b>
+## Objective of this project : 
+**Given an input, the algorithm provides the apartments/houses that best match the customer's choice.**
 
-### How was it built?
+## How was it built?
 * The first step was data collection; 
-Property data were collected through a crawler from the quintoandar.com.br website.
+**Property data were collected through a crawler from the quintoandar.com.br website.**
 
 To install libs use requirements.txt
 
