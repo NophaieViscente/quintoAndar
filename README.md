@@ -4,7 +4,7 @@
 **Given an input, the algorithm provides the apartments/houses that best match the customer's choice.**
 
 ## How was it built?
-* The first step was data collection; 
+* The first step was data collection;<br/> 
 (Property data were collected through a crawler from the www.quintoandar.com.br)
 <br/> 
 
