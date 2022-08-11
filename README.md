@@ -7,7 +7,7 @@
 * The first step was data collection;<br/> 
 (Property data were collected through a crawler from the www.quintoandar.com.br)<br/> 
 The web scrapping code is in this notebook : <br/>
-[Scrapping quintoandar.com.br](/scrapping_quintoAndar.ipynb) 
+[Scrapping quintoandar.com.br](code/scrapping_quintoAndar.ipynb) 
 
 
 
