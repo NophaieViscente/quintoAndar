@@ -17,7 +17,7 @@ The process data code is in this notebook : <br/>
 * The third step was analyzing data;<br/>
 (The analysis aims to suggest properties for rent according to the user's preference, given their preference input, properties in the center of São Paulo that meet these criteria are suggested)<br/>
 The data analysis code is in this notebook: <br/>
-[Data analysis from quintoandar.com.br](code/process_data.ipynb)<br/><br/>
+[Data analysis from quintoandar.com.br](code/analyzing_data.ipynb)<br/><br/>
 
 
 ## How to use this project ?
