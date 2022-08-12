@@ -16,14 +16,16 @@ The process data code is in this notebook : <br/>
 
 * The third step was analyzing data;<br/>
 (The analysis aims to suggest properties for rent according to the user's preference, given their preference, properties are suggested in downtown São Paulo that meet these criteria, through data from the fifth floor website and data from the api of the website of the foursquare)<br/>
+The data analysis code is in this notebook: <br/>
+[Data analysis from quintoandar.com.br and Foursquare API](code/analyzing_data.ipynb)<br/><br/>
+
 * #### In this step the data will be processed, the processes being:
 - Transform categorical variables into numeric variables;
 - Normalization of continuous data;
 - Treatment of NaN data;
 - Receive and process Foursquare API data;
 - Creation of a clustering model for grouping properties with similar characteristics;<br/><br/>
-The data analysis code is in this notebook: <br/>
-[Data analysis from quintoandar.com.br and Foursquare API](code/analyzing_data.ipynb)<br/><br/>
+
 
 ## Flowchart
 ![FlowChart](docs/Flowchart.png)
